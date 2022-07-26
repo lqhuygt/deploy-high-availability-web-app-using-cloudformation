@@ -1,6 +1,6 @@
 # Deploy a high availability web app using cloudformation
 
-![Infrastructure Diagram](./infrastructure_diagram.png)
+![Infrastructure Diagram](./AWSWebApp.jpeg)
 
 ## Introduction
 
