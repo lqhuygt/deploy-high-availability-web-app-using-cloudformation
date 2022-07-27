@@ -21,3 +21,7 @@ You can run in two easy steps:
 # Check the region in the update.sh file
 ./update.sh mySecStack servers.yml server-parameters.json
 ```
+URL to verify 
+```
+https://us-west-2.console.aws.amazon.com/cloudformation/home?region=us-west-2#/stacks/stackinfo?filteringStatus=active&filteringText=&viewNested=true&hideStacks=false&stackId=arn%3Aaws%3Acloudformation%3Aus-west-2%3A657014604951%3Astack%2Fhuylq-server-stack%2F942f4ac0-0cb3-11ed-8a1c-02e4d00103e1
+```
