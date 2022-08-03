@@ -23,5 +23,5 @@ You can run in two easy steps:
 ```
 URL to verify 
 ```
-http://huylq-webap-hhof711roz44-812258295.us-west-2.elb.amazonaws.com/
+http://huylq-webap-h3a44uc2bimz-643223742.us-west-2.elb.amazonaws.com/
 ```
